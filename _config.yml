@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yuanyuan Feng"
   avatar           : "profile.png"
-  bio              : "Pronouns: she/her/hers"
-  location         : "Location"
+  bio              : "she/her/hers" "Assistant Professor in Computer Science"
+  location         : "Burlington, VT, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=XjkbPSwAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6751-196X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "YuanyuanFeng"
   vine             :
   weibo            :
   xing             :
