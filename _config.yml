@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuanyuan Feng"
   avatar           : "profile.png"
-  bio              : "Assistant Professor in computer science at the University of Vermont. "
+  bio              : "Assistant Professor in Computer Science at the University of Vermont. "
   location         : "Burlington, VT, USA"
   employer         : 
   pubmed           : 
@@ -237,13 +237,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+  #    path: ""
+  #     type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: true
+  #    share: true
 
 # Sass/SCSS
 sass:
