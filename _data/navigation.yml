@@ -10,7 +10,7 @@ main:
     url: /students/
     
   - title: "CV"
-    url: /cv/
+    url: /files/YuanyuanFengCV.pdf
     
   - title: "Contact"
     url: /contact/
