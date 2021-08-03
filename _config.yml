@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuanyuan Feng (冯园媛), Ph.D."
 title_separator          : "-"
 name                     : &name "Yuanyuan Feng"
-description              : &description "HCI and data privacy researcher"
+description              : &description "HCI & data privacy researcher"
 url                      : https://YYinBurgh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://yyinburgh.github.io/"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuanyuan Feng"
   avatar           : "feng.png"
-  bio              : "Human-computer interation and data privacy researcher <br> <br> Assistant Professor in <a style='color: black;' href='https://www.uvm.edu/cems/cs'>Computer Science</a> at <a style='color: black;' href='https://www.uvm.edu/'>University of Vermont</a>"
+  bio              : "Human-computer interation & data privacy researcher <br> <br> Assistant Professor in <a style='color: black;' href='https://www.uvm.edu/cems/cs'>Computer Science</a> at <a style='color: black;' href='https://www.uvm.edu/'>University of Vermont</a>"
   location         : "Burlington, VT, USA"
   employer         : 
   pubmed           : 
