@@ -4,10 +4,10 @@ title: "teaching"
 author_profile: true
 redirect_from: 
   - /teaching/
-  - /teaching.html
+  - /teaching.html/
 ---
 
-## Locations of key files/directories
+## University of Vermont
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
