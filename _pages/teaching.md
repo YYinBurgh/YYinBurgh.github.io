@@ -4,8 +4,7 @@ title: "teaching"
 permalink: /teaching/
 author_profile: true
 redirect_from:
-  - /teaching/
-  - /teaching.html/
+  - /courses/
 ---
 
 {% include base_path %}
