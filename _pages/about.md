@@ -12,11 +12,11 @@ I'm an Assistant Professor in the <a href="https://www.uvm.edu/cems/cs" target="
 My interdisciplinary research is at intersection of human-computer interaction (HCI), usable privacy &amp; security, privacy-enhancing technologies, health informatics, ubiquitous computing, and applied machine learning/artificial intelligence (ML/AI). I investigate both social and technical research topics to ensure the use of people’s personal data is appropriate, fair, and meaningful, particulary by emerging computing and information technologies. I also design and build human-centered data privacy tools that help people effectively manage their data privacy on the web, on their mobile devices, and with the Internet of Things (IoT) technologies.
 
 
-News
+<!--- News --->
 ======
 
 
-Research
+<!--- Travel --->
 ======
 
 
