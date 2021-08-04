@@ -1,11 +1,15 @@
 ---
-permalink: /teaching/
+layout: archive
 title: "teaching"
+permalink: /teaching/
 author_profile: true
-redirect_from: 
+redirect_from:
   - /teaching/
   - /teaching.html/
 ---
+
+{% include base_path %}
+
 
 ## University of Vermont
 
