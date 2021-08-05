@@ -20,8 +20,8 @@ My research is at the intersection of human-computer interaction (HCI), usable p
 - **(August 2021)** Our paper examinging **people's privacy concerns and attitudes towards increasingly diverse use of facial recognition technology in public places** has been accepted by [the 17th Symposium on Usable Privacy and Security (SOUPS 2021)](https://www.usenix.org/conference/soups2021)! Watch the open access [conference presentation](https://www.usenix.org/conference/soups2021/presentation/zhang-shikun) online!
 
 - **(July, 2021)** We presented two papers at [the 21st Privacy Enhancing Technogloies Symposium (PETS 2021)](https://petsymposium.org/2021/)! 
-  - The [first paper](https://petsymposium.org/2021/files/papers/issue2/popets-2021-0028.pdf) reported the results from a sophisticated experience sampling study exploring **people's privacy expectations and preferences towards a wide range of video analytics deployments**. 
-  - The [second paper](https://petsymposium.org/2021/files/papers/issue4/popets-2021-0082.pdf) addressed **how we can help web users effectively manage potentially intrusive practices in the browswer** through a useer-centered perspective.
+  - The [first paper](https://petsymposium.org/2021/files/papers/issue2/popets-2021-0028.pdf) explored **people's privacy expectations and preferences towards a wide range of video analytics deployments**. 
+  - The [second paper](https://petsymposium.org/2021/files/papers/issue4/popets-2021-0082.pdf) addressed **how we can help web users effectively manage potentially intrusive practices in the browswer**.
 
 - **(June, 2021)** I gave a talk on [Designing Meaningful Privacy Choice Experiences for Users](https://www.youtube.com/watch?v=8WyTDerB9f4) at [the Conference on Privacy Engineering Practice and Respect (PEPR 2021)!](https://fpf.org/fpf-event/pepr-2021-conference-on-privacy-engineering-practice-and-respect-2/)
 
