@@ -17,15 +17,15 @@ My research is at the intersection of human-computer interaction (HCI), usable p
 
 <!--- News --->
 ## News ##
-- **(August 2021)** :page_facing_up:  Our paper examinging **people's privacy concerns and attitudes towards increasingly diverse use of facial recognition technology in public places** has been accepted by [the 17th Symposium on Usable Privacy and Security (SOUPS 2021)](https://www.usenix.org/conference/soups2021)! Watch the open access [conference presentation](https://www.usenix.org/conference/soups2021/presentation/zhang-shikun) online!
+- **(August 2021)** Our paper examinging **people's privacy concerns and attitudes towards increasingly diverse use of facial recognition technology in public places** has been accepted by [the 17th Symposium on Usable Privacy and Security (SOUPS 2021)](https://www.usenix.org/conference/soups2021)! Watch the open access [conference presentation](https://www.usenix.org/conference/soups2021/presentation/zhang-shikun) online!
 
-- **(July, 2021)** :sound:  We presented two papers at [the 21st Privacy Enhancing Technogloies Symposium (PETS 2021)](https://petsymposium.org/2021/)! 
+- **(July, 2021)** We presented two papers at [the 21st Privacy Enhancing Technogloies Symposium (PETS 2021)](https://petsymposium.org/2021/)! 
   - The [first paper](https://petsymposium.org/2021/files/papers/issue2/popets-2021-0028.pdf) reported the results from a sophisticated experience sampling study exploring **people's privacy expectations and preferences towards a wide range of video analytics deployments**. 
   - The [second paper](https://petsymposium.org/2021/files/papers/issue4/popets-2021-0082.pdf) addressed **how we can help web users effectively manage potentially intrusive practices in the browswer** through a useer-centered perspective.
 
-- **(June, 2021)** :sound:  I gave a talk on [Designing Meaningful Privacy Choice Experiences for Users](https://www.youtube.com/watch?v=8WyTDerB9f4) at [the Conference on Privacy Engineering Practice and Respect (PEPR 2021)!](https://fpf.org/fpf-event/pepr-2021-conference-on-privacy-engineering-practice-and-respect-2/)
+- **(June, 2021)** I gave a talk on [Designing Meaningful Privacy Choice Experiences for Users](https://www.youtube.com/watch?v=8WyTDerB9f4) at [the Conference on Privacy Engineering Practice and Respect (PEPR 2021)!](https://fpf.org/fpf-event/pepr-2021-conference-on-privacy-engineering-practice-and-respect-2/)
 
-- **(May, 2021)** :page_facing_up:  I presented [my paper](https://dl.acm.org/doi/10.1145/3411764.3445148) on **the design space for privacy choices** at [the 2021 ACM CHI Conference on Human Factors in Computing Systems](https://chi2021.acm.org/). Read Carnegie Mellon University CyLab's [article](https://cylab.cmu.edu/news/2021/05/13-privacydesign.html) about my work!
+- **(May, 2021)** I presented [my paper](https://dl.acm.org/doi/10.1145/3411764.3445148) on **the design space for privacy choices** at [the 2021 ACM CHI Conference on Human Factors in Computing Systems](https://chi2021.acm.org/). Read Carnegie Mellon University CyLab's [article](https://cylab.cmu.edu/news/2021/05/13-privacydesign.html) about my work!
 
 <!--- Travel --->
 
