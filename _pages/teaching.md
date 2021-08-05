@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "teaching"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -12,43 +12,22 @@ redirect_from:
 
 ## University of Vermont
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+###CS228 Human-Computer Interaction (Fall'21)
 
-## Tips and hints
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+## Drexel University, College of Computing & Informatics
+###Instructor
+* INFO649: Library Programming (Spring ’16 ’17, Fall ’16 ’17)
+* INFO753: Introduction to Digital Curation (Summer ’16 ’17, Winter ’17)
+###Teaching Assistant
+* INFO608: Human-Computer Interaction (Summer ’15)
+* INFO649: Library Programming (Fall ’15)
+* INFO753: Digital Curation (Winter ’16)
+###Guest Lecturer
+* INFO215: Social Aspects of Information Systems (Winter ’18 ’20)
+* INFO679: Information Ethics (Winter ’18)
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
 
-## Markdown guide
 
-### Header three
 
-#### Header four
 
-##### Header five
-
-###### Header six
-
-## Blockquotes
-
-Single line blockquote:
-
-> Quotes are cool.
