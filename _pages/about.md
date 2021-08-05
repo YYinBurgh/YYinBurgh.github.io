@@ -18,6 +18,7 @@ My research is at the intersection of human-computer interaction (HCI), usable p
 - (July, 2021) We presented two papers at [the 21st Privacy Enhancing Technogloies Symposium (PETS 2021)](https://petsymposium.org/2021/)! The [first paper](https://petsymposium.org/2021/files/papers/issue2/popets-2021-0028.pdf) presented a sophisticated experience sampling study exploring **people's privacy expectations and preferences towards a wide range of video analytics deployments**. The [second paper](https://petsymposium.org/2021/files/papers/issue4/popets-2021-0082.pdf) addressed **how we can help web users effectively manage potentially intrusive practices in the browswer** through a useer-centered perspective.
 - (June, 2021) I gave a talk on [Designing Meaningful Privacy Choice Experiences for Users](https://www.youtube.com/watch?v=8WyTDerB9f4) at [the Conference on Privacy Engineering Practice and Respect (PEPR 2021)](https://fpf.org/fpf-event/pepr-2021-conference-on-privacy-engineering-practice-and-respect-2/)
 - (May, 2021) I presented [my paper](https://dl.acm.org/doi/10.1145/3411764.3445148) on **the design space for privacy choices** at [the 2021 ACM CHI Conference on Human Factors in Computing Systems](https://chi2021.acm.org/). Read Carnegie Mellon University CyLab's [article](https://cylab.cmu.edu/news/2021/05/13-privacydesign.html) about my work!
-<!--- Travel ---
+
+<!--- Travel --->
 
 
