@@ -19,10 +19,12 @@ CS228 will cover the foundational theories and methods in the interdisciplinary 
 ### Instructor
 * INFO649: Library Programming (Spring 2016 & 2017, Fall 2016 & 2017)
 * INFO753: Introduction to Digital Curation (Summer 2016 & 2017, Winter 20177)
+
 ### Teaching Assistant
 * INFO608: Human-Computer Interaction (Summer 2015)
 * INFO649: Library Programming (Fall 2015)
 * INFO753: Digital Curation (Winter 2016)
+
 ### Guest Lecturer
 * INFO215: Social Aspects of Information Systems (Winter 2018 & 2020)
 * INFO679: Information Ethics (Winter 2018)
