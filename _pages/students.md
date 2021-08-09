@@ -8,11 +8,31 @@ redirect_from:
 ---
 
 ## Student Recruitment
-I’m actively recruiting students who are excited about designing and building human-centered computing systems to improve people’s personal wellbeing and to achieve greater social good. Generally, prospective students should have strong interest in at least one of my research areas: **human-computer interaction (HCI), usable privacy & security, privacy-enhancing technologies, health informatics, ubiquitous computing, and applied machine learning/artificial intelligence (ML/AI)**. 
+I'm actively recruiting students who are excited about designing and building human-centered computing systems to improve people’s personal wellbeing and to achieve greater social good. Generally, prospective students should have strong interest in at least one of my research areas: **human-computer interaction (HCI), usable privacy & security, privacy-enhancing technologies, health informatics, ubiquitous computing, and applied machine learning/artificial intelligence (ML/AI)**. 
 
 ### Prospective Ph.D. Students
 I have Ph.D. positions in <a href="https://www.uvm.edu/cems/cs" target="_blank">Computer Science</a> at the <a href="https://www.uvm.edu/" target="_blank">Unversity of Vermont (UVM)</a>. starting Fall 2022. Strong candidates should be self-motivated, passionate about research, interested in human-centered computing, and have programming skills. Ph.D. students at UVM typically are funded with full tuition and a stipend. You may learn more about the Ph.D. program <a href="https://www.uvm.edu/cems/cs/graduate_programs/computer_science_phd" target="_blank">here</a>.
 
-I'm looking for candidates with ANY of the qualifications (1) prior experience in designing, implementing, and evalutating interactive systems; (2) skills in developing user-facing web/mobile applications; (3) knowledge in machine learning/artifical intelligence (ML/AI) and problems with ML/AI; and (4)interdisciplinary research backgrounds (e.g., information science, social science, pyschology). **Candidates from under-reprensented groups in computing are stronly encrouaged!**
+I'm looking for candidates with ANY of the qualifications:
+1. Prior experience in designing, implementing, and evalutating interactive systems; 
+2. Skills in developing user-facing web/mobile applications; 
+3. Knowledge in machine learning/artifical intelligence (ML/AI) and problems with ML/AI; and
+4. Interdisciplinary research backgrounds (e.g., information science, social science, pyschology). 
+**Candidates from under-reprensented groups in computing are stronly encrouaged!**
 
-Interested individuals may contact me with the following information: (1) a brief introduction of yourself;(2) your CV or resume; (2) **a short description of how research interests align with my research expertise**; and (4) representative publications or writing samples (course papers are okay). The subject of the email should start with “[Prospective-PhD]”. I will reach out if there is a potential good fit.
+Interested individuals may contact me with the following information: 
+1. A brief introduction of yourself;
+2. Your CV or resume; 
+3. **A short description of how your research interests align with my research expertise**; and 
+4. Representative publications or writing samples (course papers are okay).
+The subject of the email should start with “[Prospective-PhD]”. I will reach out if there is a potential good fit.
+
+### Undergraduate or Master's Students at UVM
+I enjoy working with motivated undergraduate and Master's students on smaller and hands-on projects related to my research expertise. Many undergarduate and master's students who worked with me are now at big tech companies (e.g., Google, Facebook, Amazon). Projects are often available for students with backgrounds or interests in software development, machine learning, UX design/research.
+
+Current UVM undergraduate or master's studnents may contact me with the following information: 
+1. A brief introduction of yourself;
+2. Your CV or resume; 
+3. A copy of your unofficial UVM transcript; and 
+4. **A short description of your research interests**. 
+The subject of the email should start with “[Prospective-UVM-student]”. We may find a time to meet and discuss potential projects.
