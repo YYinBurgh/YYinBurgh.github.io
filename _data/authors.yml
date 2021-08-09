@@ -4,9 +4,10 @@ Name Name:
   name        : "Yuanyuan Feng"
   uri         : "http://name.com"
   email       : "Yuanyuan.Feng@uvm.edu"
-  bio         : "This is Yuanyuan Feng."
+  bio         : "Human-computer interaction & data privacy researcher."
   avatar      : "feng.png"
   twitter     : "YuanyuanFeng"
+  googlescholar  : "https://scholar.google.com/citations?hl=en&user=XjkbPSwAAAAJ&view_op=list_works&sortby=pubdate"
 
 Name2 Name2:
   name        : "Name2 Name2"
