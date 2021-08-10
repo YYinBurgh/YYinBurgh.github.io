@@ -7,5 +7,6 @@ redirect_from:
   - /email/
 ---
 
-## Contact Me
-For reserach, teaching, and other professional matters, email me at X AT uvm DOT edu (where X = Yuanyuan.Feng). 
+## Email
+For reserach, teaching, and other professional matters, email is the best way to reach me.
+Drop me a line at X AT uvm DOT edu (where X = Yuanyuan.Feng). 
