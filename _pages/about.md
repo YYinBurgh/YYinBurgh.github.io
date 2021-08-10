@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: ""
 excerpt: "About Me"
 author_profile: true
@@ -13,7 +13,8 @@ I'm an Assistant Professor in the <a href="https://www.uvm.edu/cems/cs" target="
 
 My research is at the intersection of **human-computer interaction (HCI), usable privacy &amp; security, privacy-enhancing technologies, health informatics, ubiquitous computing, and applied machine learning/artificial intelligence (ML/AI)**. I investigate both social and technical research topics to ensure the use of people’s personal data is appropriate, fair, and meaningful, particulary by emerging computing and information technologies. Drawing upon my research findings, I also design and develop human-centered data privacy tools that help people effectively manage their data privacy on the web, on their mobile devices, and with the Internet of Things (IoT) technologies.
 
-> **I'm recruiting Ph.D. students and undergraduate/master's research assistant. Please see the [Students](/students/) for details.**
+> **I'm recruiting Ph.D. students and undergraduate/master's research assistants. Please see the [Students](/students/) for details.**
+
 <!--- News --->
 ## News ##
 - **(August 2021)** Our paper examinging **people's privacy concerns and attitudes towards increasingly diverse use of facial recognition technology in public places** has been accepted by <a href="https://www.usenix.org/conference/soups2021" target="_blank">the 17th Symposium on Usable Privacy and Security (SOUPS 2021)</a>! Watch the open access <a href="https://www.usenix.org/conference/soups2021/presentation/zhang-shikun" target="_blank">conference presentation </a> online!
