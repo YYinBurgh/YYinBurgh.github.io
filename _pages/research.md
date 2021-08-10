@@ -12,4 +12,4 @@ Specifically, I examine how emerging computing and information technologies impa
 
 ## Publications
 
-Find my publications on <a href="https://scholar.google.com/citations?hl=en&user=XjkbPSwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"> GoogleScholar </a>.
+Find my publications on <a href="https://scholar.google.com/citations?hl=en&user=XjkbPSwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"> GoogleScholar</a>.
