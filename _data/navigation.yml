@@ -16,7 +16,7 @@ main:
     url: /students/
     
   - title: "CV"
-    url: /files/YuanyuanFengCV.pdf
+    url: /cv/
     
   - title: "Contact"
     url: /contact/
