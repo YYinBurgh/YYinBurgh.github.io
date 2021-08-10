@@ -1,6 +1,6 @@
 ---
 title: "The Internet of Things (IoT) Privacy Infrastructure"
-excerpt: "IoT PI 1<br/><img src='/images/500x300.png'>"
+excerpt: "We built the IoT Privacy Infrastructure that provides a mechanism for privacy notice and choice for data collected by increasingly ubiquitous IoT devices, services, and technologies. <br/><img src='/images/IoTPI.png'>"
 collection: portfolio
 ---
 The IoT Privcay Infrastructure provides a mechanism for privacy notice and choice in IoT data collection.
