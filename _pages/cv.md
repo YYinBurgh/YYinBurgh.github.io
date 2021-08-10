@@ -13,10 +13,10 @@ My full CV is available in [PDF](/files/YuanyuanFengCV.pdf).
 
 ## Academic Appointments
 
-- Department of Computer Science, University of Vermont 
-  -  Assistant Professor (July 2021 - now)
+- **Department of Computer Science, University of Vermont** 
+  -  Assistant Professor (July 2021 - present)
 
-- School of Computer Science, Carnegie Mellon University
+- **School of Computer Science, Carnegie Mellon University**
   - Postdoctoral Associate (July 2018 - June 2021)
   
 ## Education
