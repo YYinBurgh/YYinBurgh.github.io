@@ -16,7 +16,8 @@ My research is at the intersection of **human-computer interaction (HCI), usable
 > **I'm recruiting Ph.D. students and undergraduate/master's research assistants. Please see the [Students](/students/) for details.**
 
 <!--- News --->
-## News ##
+# News
+
 - **(August 2021)** Our paper examinging **people's privacy concerns and attitudes towards increasingly diverse use of facial recognition technology in public places** has been accepted by <a href="https://www.usenix.org/conference/soups2021" target="_blank">the 17th Symposium on Usable Privacy and Security (SOUPS 2021)</a>! Watch the open access <a href="https://www.usenix.org/conference/soups2021/presentation/zhang-shikun" target="_blank">conference presentation </a> online!
 
 - **(July, 2021)** We presented two papers at <a href="https://petsymposium.org/2021/" target="_blank">the 21st Privacy Enhancing Technogloies Symposium (PETS 2021)</a>! 
