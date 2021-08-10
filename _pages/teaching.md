@@ -12,9 +12,8 @@ redirect_from:
 ## University of Vermont, Department of Computer Science
 
 ### Instructor and Course Designer
-#### CS228 Human-Computer Interaction (Fall 2021)
-
-**Course Description**:This course covers the foundational theories and methods in the interdisciplinary field of human-computer interaction (HCI). The course focuses on user-centered design and evaluation of user interfaces for interactive computing systems (e.g., tangible objects, the web, mobile devices, the Internet of Things). This course also introduces a wide range of topics in HCI research, such as social computing, ubiquitous computing, usable privacy and security, as well as ethics and fairness in computing.
+-  **CS228 Human-Computer Interaction** (Fall 2021)
+    - This course covers the foundational theories and methods in the interdisciplinary field of human-computer interaction (HCI). The course focuses on user-centered design and evaluation of user interfaces for interactive computing systems (e.g., tangible objects, the web, mobile devices, the Internet of Things). This course also introduces a wide range of topics in HCI research, such as social computing, ubiquitous computing, usable privacy and security, as well as ethics and fairness in computing.
 
 ## Drexel University, College of Computing & Informatics
 ### Instructor (2016-2017)
