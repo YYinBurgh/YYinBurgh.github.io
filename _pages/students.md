@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /student/
 ---
-# Student Recruitment
 
 I'm actively recruiting students who are excited about designing and building human-centered computing systems to improve people’s personal wellbeing and to achieve greater social good. Generally, prospective students should have strong interest in at least one of my research areas: **human-computer interaction (HCI), usable privacy & security, privacy-enhancing technologies, health informatics, ubiquitous computing, and applied machine learning/artificial intelligence (ML/AI)**. 
 
