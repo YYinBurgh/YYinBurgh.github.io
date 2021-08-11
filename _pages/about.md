@@ -5,7 +5,6 @@ excerpt: ""
 author_profile: true
 redirect_from:
   - /about/
-  - /about.html
 ---
 ![UVM Logo](/images/UVMLogoSolid.png)
 
