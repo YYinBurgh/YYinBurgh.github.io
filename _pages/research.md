@@ -11,7 +11,7 @@ Specifically, I examine how emerging computing and information technologies impa
 
 ## Research Statement
 
-Here is a copy of my recent on <a href="/files/YuanyuanFeng_ResearchStatement_2021.pdf" target="_blank"> research statement</a>.
+Here is a copy of my recent on <a href="/files/YuanyuanFeng_ResearchStatement_2021.pdf" target="_blank"> Research Statement</a>.
 
 ## Publications
 
