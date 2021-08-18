@@ -17,7 +17,7 @@ My research is at the intersection of **human-computer interaction (HCI), usable
 <!--- News --->
 ## News
 
-- **(August 2021)** Our paper examinging **people's privacy concerns and attitudes towards increasingly diverse use of facial recognition technology in public places** has been accepted by <a href="https://www.usenix.org/conference/soups2021" target="_blank">the 17th Symposium on Usable Privacy and Security (SOUPS 2021)</a>! Find our <a href="https://www.usenix.org/conference/soups2021/presentation/zhang-shikun" target="_blank">paper and slides </a> here!
+- **(August 2021)** Our paper examinging **people's privacy concerns and attitudes towards increasingly diverse use of facial recognition technology in public places** has been accepted by <a href="https://www.usenix.org/conference/soups2021" target="_blank">the 17th Symposium on Usable Privacy and Security (SOUPS 2021)</a>! Take a look at our <a href="https://www.usenix.org/conference/soups2021/presentation/zhang-shikun" target="_blank">paper and slides </a>!
 
 - **(July, 2021)** We presented two papers at <a href="https://petsymposium.org/2021/" target="_blank">the 21st Privacy Enhancing Technogloies Symposium (PETS 2021)</a>! 
   - The <a href="https://petsymposium.org/2021/files/papers/issue2/popets-2021-0028.pdf" target="_blank">first paper </a> explored **people's privacy expectations and preferences towards a wide range of video analytics deployments**. 
