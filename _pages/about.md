@@ -12,7 +12,7 @@ I'm an Assistant Professor in the <a href="https://www.uvm.edu/cems/cs" target="
 
 My research is at the intersection of **human-computer interaction (HCI), usable privacy &amp; security, privacy-enhancing technologies, health informatics, ubiquitous computing, and applied machine learning/artificial intelligence (ML/AI)**. Overall, I investigate both social and technical research topics **to ensure the use of people’s personal information/data is appropriate, fair, and meaningful**, particulary by emerging computing and information technologies. See my [Research](/research/) page for more details.
 
-> **I'm recruiting Ph.D. students and undergraduate/master's research assistants. Please see the [Students](/students/) for details.**
+> **I'm recruiting Ph.D. students and undergraduate/master's research assistants. Please see the [Students](/students/) page for details.**
 
 <!--- News --->
 ## News
