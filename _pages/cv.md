@@ -23,4 +23,4 @@ My full CV is available in [PDF](/files/YuanyuanFengCV.pdf).
 
 - Ph.D. in Information Studies, Drexel University
 - M.S. in Information Science, University of North Carolina at Chapel Hill
-- B.S. in Library Science, Sun Yat-sen University
+- B.S. in Library and Information Science, Sun Yat-sen University
