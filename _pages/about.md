@@ -16,6 +16,7 @@ My research is at the intersection of **human-computer interaction (HCI), usable
 
 <!--- News --->
 ## News
+- **(January 2022)** Our 2021 PETS paper **“Did you know this camera tracks your mood?”: Understanding Privacy Expectations and Preferences in the Age of Video Analytics** has won the <a href="https://fpf.org/fpf-event/12th-annual-privacy-papers-for-policymakers/" target="_blank">the 12th Annual Privacy Papers for Policymakers from the Future of Privacy Forum (FPF) </a>! Please register FPF's free event on Feb 10, 2022 to know more about this paper!
 
 - **(August 2021)** Our paper examinging **people's privacy concerns and attitudes towards increasingly diverse use of facial recognition technology in public places** has been accepted by <a href="https://www.usenix.org/conference/soups2021" target="_blank">the 17th Symposium on Usable Privacy and Security (SOUPS 2021)</a>! Take a look at our <a href="https://www.usenix.org/conference/soups2021/presentation/zhang-shikun" target="_blank">paper and slides </a>!
 
