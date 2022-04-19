@@ -29,7 +29,7 @@ The subject of the email should start with “**[Prospective-PhD]**”. I will r
 
 I enjoy working with motivated undergraduate and master's students on smaller and hands-on projects that are related to my research expertise. Many undergarduate and master's students who worked with me are now at big tech companies (e.g., Google, Facebook, Amazon). Projects are often available for students with backgrounds or interests in software development, machine learning, and UX design/research.
 
-Interested UVM undergraduate or master's studnents may contact me with the following information: 
+Interested UVM undergraduate or master's students may contact me with the following information: 
 1. A brief introduction of yourself;
 2. Your CV or resume; 
 3. A copy of your unofficial UVM transcript; and 
