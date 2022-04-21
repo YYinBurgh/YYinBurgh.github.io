@@ -16,7 +16,7 @@ My research is at the intersection of **human-computer interaction (HCI), usable
 
 <!--- News --->
 ## News
-- **(April 2022)** Our paper **Helping mobile application developers create accurate privacy labels** has been accepted by <a href="https://iwpe.info/" target="_blank">the 2022 Internation Workshp on Privacy Engineering (IWPE'22) </a>, which is co-loacated with the IEEE European Symposium on Security and Privacy this year.
+- **(April 2022)** Our paper **Helping mobile application developers create accurate privacy labels** has been accepted by <a href="https://iwpe.info/" target="_blank">the 2022 International Workshp on Privacy Engineering (IWPE'22) </a>, which is co-loacated with the IEEE European Symposium on Security and Privacy this year.
 
 - **(January 2022)** Our 2021 PETS paper **“Did you know this camera tracks your mood?”: Understanding Privacy Expectations and Preferences in the Age of Video Analytics** has won the the 12th Annual Privacy Papers for Policymakers Award from the Future of Privacy Forum (FPF)!
 
