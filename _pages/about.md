@@ -20,7 +20,7 @@ My research is at the intersection of **human-computer interaction (HCI), usable
 
 - **(May 2022)** Super excited to share a <a href="https://arxiv.org/abs/2205.09036" target="_blank">preprint</a> of our accepted paper **Stop the spread: A contextual integrity perspective on the appropriateness of COVID-19 vaccination certificates** at <a href="https://facctconference.org/2022/index.html" target="_blank">the ACM Conference on Fairness, accountability, and Transparency (FAccT'22) </a>!
 
-- **(May, 2022)** We are going to give a talk on Privacy Label Wiz, a developer tool that helps app developers create accurate privacy labels at <a href="https://www.usenix.org/conference/pepr22/conference-program", target="_blank">the Conference on Privacy Engineering Practice and Respect (PEPR'22)</a>!
+- **(May, 2022)** We are going to give a talk on Privacy Label Wiz, a developer tool that helps app developers create accurate privacy labels at <a href="https://www.usenix.org/conference/pepr22/conference-program" target="_blank"> the Conference on Privacy Engineering Practice and Respect (PEPR'22)</a>!
 
 - **(April 2022)** Our paper **Helping mobile application developers create accurate privacy labels** has been accepted by <a href="https://iwpe.info/" target="_blank">the 2022 International Workshp on Privacy Engineering (IWPE'22) </a>, which is co-loacated with the IEEE European Symposium on Security and Privacy this year.
 
