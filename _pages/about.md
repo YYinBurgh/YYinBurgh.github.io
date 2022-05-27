@@ -15,7 +15,13 @@ My research is at the intersection of **human-computer interaction (HCI), usable
 > **I'm recruiting Ph.D. students and project-based undergraduate/master's research assistants. Please see the [Students](/students/) page for details.**
 
 <!--- News --->
+
 ## News
+
+- **(May 2022)** Super excited to share a <a href="https://arxiv.org/abs/2205.09036" target="_blank">preprint</> of our accepted paper **Stop the spread: A contextual integrity perspective on the appropriateness of COVID-19 vaccination certificates** at <a href="https://facctconference.org/2022/index.html" target="_blank">the ACM Conference on Fairness, accountability, and Transparency (FAccT'22) </a>!
+
+- **(May, 2022)** We are going to give a talk on Privacy Label Wiz, a developer tool that helps app developers create accurate privacy labels at <a href="https://www.usenix.org/conference/pepr22/conference-program", target="_blank">the Conference on Privacy Engineering Practice and Respect (PEPR'22)</a>!
+
 - **(April 2022)** Our paper **Helping mobile application developers create accurate privacy labels** has been accepted by <a href="https://iwpe.info/" target="_blank">the 2022 International Workshp on Privacy Engineering (IWPE'22) </a>, which is co-loacated with the IEEE European Symposium on Security and Privacy this year.
 
 - **(January 2022)** Our 2021 PETS paper **“Did you know this camera tracks your mood?”: Understanding Privacy Expectations and Preferences in the Age of Video Analytics** has won the the 12th Annual Privacy Papers for Policymakers Award from the Future of Privacy Forum (FPF)!
@@ -26,9 +32,7 @@ My research is at the intersection of **human-computer interaction (HCI), usable
   - The <a href="https://petsymposium.org/2021/files/papers/issue2/popets-2021-0028.pdf" target="_blank">first paper </a> explored **people's privacy expectations and preferences towards a wide range of video analytics deployments**. 
   - The <a href="https://petsymposium.org/2021/files/papers/issue4/popets-2021-0082.pdf" target="_blank">second paper </a> addressed **how we can help web users effectively manage potentially intrusive practices in the browser**.
 
-- **(June, 2021)** I gave a talk on <a href="https://www.youtube.com/watch?v=8WyTDerB9f4" target="_blank">Designing Meaningful Privacy Choice Experiences for Users</a> at <a href="https://fpf.org/fpf-event/pepr-2021-conference-on-privacy-engineering-practice-and-respect-2/)" target="_blank">the Conference on Privacy Engineering Practice and Respect (PEPR 2021)</a>!
 
-- **(May, 2021)** I presented <a href="https://dl.acm.org/doi/10.1145/3411764.3445148" target="_blank">my paper</a> on **the design space for privacy choices** at <a href="https://chi2021.acm.org/" target="_blank">the 2021 ACM CHI Conference on Human Factors in Computing Systems</a>. Read Carnegie Mellon University CyLab's <a href="https://cylab.cmu.edu/news/2021/05/13-privacydesign.html" target="_blank">article</a> about my work!
 
 <!--- Travel --->
 
