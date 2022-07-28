@@ -19,7 +19,7 @@ My research is at the intersection of **human-computer interaction (HCI), usable
 ## News
 
 
-- **(July 2022)** Happy to share <a href="https://petsymposium.org/2022/files/papers/issue4/popets-2022-0106.pdf" target="_blank"> our paper </a>, titled **How Usable Are iOS App Privacy Labels?**, that examines the usability of Apple's iOS app privacy label from end users' perspective. To appear in Proceedings of Privacy Enhancing Technologies (PoPETS). Read <a href="https://www.cylab.cmu.edu/news/2022/07/25-ios-privacy-labels-miss-mark.html" target="_blank"> CyLab's news article</a> about this research!
+- **(July 2022)** Happy to share <a href="https://petsymposium.org/2022/files/papers/issue4/popets-2022-0106.pdf" target="_blank"> our paper</a>, titled **"How usable are iOS app privacy labels?"**, that examines the usability of Apple's iOS app privacy label from end users' perspective. To appear in Proceedings of Privacy Enhancing Technologies (PoPETS). Read <a href="https://www.cylab.cmu.edu/news/2022/07/25-ios-privacy-labels-miss-mark.html" target="_blank"> CyLab's news article</a> about this research!
 
 - **(June 2022)** Our <a href="https://ieeexplore.ieee.org/abstract/document/9799337" target="_blank"> workshop paper </a> detailing Privacy Label Wiz, a developer tool that helps app developers create accurate privacy labels is published in the Proceedings of 2022 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW).
 
