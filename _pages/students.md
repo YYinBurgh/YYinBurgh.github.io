@@ -17,7 +17,7 @@ I have Ph.D. positions in <a href="https://www.uvm.edu/cems/cs" target="_blank">
 
 I'm looking for candidates with one or more of the following qualifications: (1) prior experience in designing, implementing, and evaluating interactive systems; (2) skills in developing user-facing web/mobile applications; (3) knowledge in data science/machine learning/artificial intelligence (DS/ML/AI); and (4) interdisciplinary research backgrounds related to computing (e.g., information science, social science, psychology). **Candidates from under-reprensented groups in computing are strongly encouraged!**
  
-Interested individuals may contact me with the following information: 
+**If you want to pursue your Ph.D. under my mentorship**, please email me with the following information: 
 1. A brief introduction of yourself;
 2. Your CV or resume; 
 3. **A short description of how your research interests align with my research expertise**; and 
@@ -29,7 +29,7 @@ The subject of the email should start with “**[Prospective-PhD]**”. I will r
 
 I enjoy working with motivated undergraduate and master's students on smaller and hands-on projects that are related to my research expertise. Many undergarduate and master's students who worked with me are now at big tech companies (e.g., Google, Facebook, Amazon). Projects are often available for students with skills in **qualitative research methods, statistical analysis, and web/mobile app development**.
 
-Interested UVM undergraduate or master's students may contact me with the following information: 
+**Current UVM undergraduate or master's students** interested in working with me,  please email me with the following information: 
 1. A brief introduction of yourself;
 2. Your CV or resume; 
 3. A copy of your unofficial UVM transcript; and 
