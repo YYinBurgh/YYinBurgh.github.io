@@ -12,7 +12,3 @@ Specifically, I examine how emerging computing and information technologies impa
 ## Publications
 
 Find my publications on <a href="https://scholar.google.com/citations?hl=en&user=XjkbPSwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>.
-
-## Research Statement
-
-Here is a copy of my recent  <a href="/files/YuanyuanFeng_ResearchStatement_2021.pdf" target="_blank"> Research Statement</a>.
