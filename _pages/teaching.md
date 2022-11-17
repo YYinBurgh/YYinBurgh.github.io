@@ -12,11 +12,11 @@ redirect_from:
 ## University of Vermont, Department of Computer Science
 
 ### Instructor and Course Designer
--  **CS295/395 Usable Privacy and Security** (Spring 2022)
-    - From security breaches to data leak, from stolen passwords to data misuse. For all the security and privacy problems we face today, technology alone cannot provide us satisfactory solutions. Human factors play an essential role in ensuring privacy and security in today’s computer systems. This course covers human factors in privacy and security, usability problems in today’s computer security and privacy mechanisms, as well as the human-centered research methods to understand and address these usability problems.
+-  **CS295/395 Usable Privacy and Security** (Spring 2023 & 2022)
+    - From security breaches to data leak, from stolen passwords to data misuse. For all the security and privacy problems we face today, technology alone cannot provide us satisfactory solutions. Human factors play an essential role in ensuring privacy and security in today’s computer systems. This course covers human factors in privacy and security, usability problems in today’s computer security and privacy mechanisms, as well as human-centered research methods to understand and address these usability problems.
 
 -  **CS228 Human-Computer Interaction** (Fall 2022 & 2021)
-    - This course covers the foundational theories and methods in the interdisciplinary field of human-computer interaction (HCI). The course focuses on user-centered design and evaluation of user interfaces for interactive computing systems (e.g., tangible objects, the web, mobile devices, the Internet of Things). This course also introduces a wide range of topics in HCI research, such as social computing, ubiquitous computing, usable privacy and security, as well as ethics and fairness in computing.
+    - This course covers the foundational theories and methods in the interdisciplinary field of human-computer interaction (HCI). The course focuses on user-centered design and evaluation of user interfaces for interactive computing systems (e.g., tangible objects, the web, mobile devices, the Internet of Things). This course also introduces a wide range of topics in HCI research, such as social computing, ubiquitous computing, and usable privacy & security.
 
 ## Drexel University, College of Computing & Informatics
 ### Instructor (2016-2017)
