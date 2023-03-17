@@ -32,7 +32,7 @@ Privacy (EuroS&P). Preprint coming soon!
 
 - **(April 2022)** Our paper **"Helping mobile application developers create accurate privacy labels"** has been accepted by <a href="https://iwpe.info/" target="_blank">the 2022 International Workshp on Privacy Engineering (IWPE'22) </a>, which is co-loacated with the IEEE European Symposium on Security and Privacy.
 
-- **(January 2022)** Our <a href="https://www.petsymposium.org/2021/files/papers/issue2/popets-2021-0028.pdf" target="_blank"> 2021 PoPETS paper</a> **“Did you know this camera tracks your mood?”: Understanding Privacy Expectations and Preferences in the Age of Video Analytics** has won the the 12th Annual Privacy Papers for Policymakers Award from the Future of Privacy Forum (FPF)!
+- **(January 2022)** Our <a href="https://www.petsymposium.org/2021/files/papers/issue2/popets-2021-0028.pdf" target="_blank"> 2021 PoPETS paper</a> **“Did you know this camera tracks your mood?”: Understanding Privacy Expectations and Preferences in the Age of Video Analytics** has won the 12th Annual Privacy Papers for Policymakers Award from the Future of Privacy Forum (FPF)!
 
 
 
