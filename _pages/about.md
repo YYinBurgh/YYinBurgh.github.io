@@ -19,7 +19,7 @@ My research is at the intersection of **human-computer interaction (HCI), usable
 ## News
 
 - **(March 2023)** Happy to share that our paper, titled **"Exploring smart commercial building occupants’ perceptions and notification preferences of Internet of Things data collection in the United States"**, is accepted by the 2023 IEEE European Symposium on Security and
-Privacy (EuroS&P). Preprint coming soon!
+Privacy (EuroS&P)! <a href="https://arxiv.org/abs/2303.04955" target="_blank"> arXiv preprint </a> available.
 
 - **(July 2022)** Happy to share <a href="https://petsymposium.org/2022/files/papers/issue4/popets-2022-0106.pdf" target="_blank"> our paper</a>, titled **"How usable are iOS app privacy labels?"**, that examines the usability of Apple's iOS app privacy label from end users' perspective. To appear in Proceedings of Privacy Enhancing Technologies (PoPETS). Read <a href="https://www.cylab.cmu.edu/news/2022/07/25-ios-privacy-labels-miss-mark.html" target="_blank"> CyLab's news article</a> about this research!
 
