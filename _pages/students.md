@@ -13,7 +13,7 @@ You may find more about my research under the [Research](/research) page or by r
 
 ## Prospective Ph.D. Students
 
-I have concluded Ph.D. recruitment for Fall 2023. I may have Ph.D. positions in <a href="https://www.uvm.edu/cems/cs" target="_blank">Computer Science</a> in Spring 2024 or Fall 2024. Strong candidates should be self-motivated, passionate about research, interested in human-centered computing, and have programming skills. Ph.D. students at UVM typically are funded with full tuition and a stipend. You may learn more about the Ph.D. program <a href="https://www.uvm.edu/cems/cs/graduate_programs/computer_science_phd" target="_blank">here</a>.
+I have Ph.D. positions in <a href="https://www.uvm.edu/cems/cs" target="_blank">Computer Science</a> starting Spring or Fall 2024. Strong candidates should be self-motivated, passionate about research, interested in human-centered computing, and have programming skills. Ph.D. students at UVM typically are funded with full tuition and a stipend. You may learn more about the Ph.D. program <a href="https://www.uvm.edu/cems/cs/graduate_programs/computer_science_phd" target="_blank">here</a>.
 
 I'm looking for candidates with one or more of the following qualifications: (1) prior experience in designing, implementing, and evaluating interactive systems; (2) skills in developing user-facing web/mobile applications; (3) knowledge in data science/machine learning/artificial intelligence (DS/ML/AI); and (4) interdisciplinary research backgrounds related to computing (e.g., information science, social science, psychology). **Candidates from under-reprensented groups in computing are strongly encouraged!**
  
