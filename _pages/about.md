@@ -10,7 +10,7 @@ redirect_from:
 
 I'm an Assistant Professor in the <a href="https://www.uvm.edu/cems/cs" target="_blank">Department of Computer Science</a> at the <a href="https://www.uvm.edu/" target="_blank">University of Vermont (UVM)</a>. Before coming to UVM, I was a postdoctoral researcher in the <a href="https://www.cs.cmu.edu/" target="_blank">School of Computer Science</a> at <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University (CMU)</a> and earned my PhD degree from the <a href="http://drexel.edu/cci/" target="_blank"> College of Computing &amp; Informatics </a> at <a href="http://drexel.edu/" target="_blank">Drexel University</a>.
 
-My [Research](/research/) is at the intersection of **human-computer interaction (HCI), usable privacy &amp; security, health informatics, and applied machine learning/artificial intelligence (ML/AI)**. I investigate both social and technical research topics **to ensure the appropriate, fair, and meaningful use of people’s personal information/data**.
+My [Research](/research/) is at the intersection of **human-computer interaction (HCI), usable privacy &amp; security, health informatics, and trustworthy &amp; inclusive artificial intelligence (AI)**. I investigate both human-centered and technical research topics towards **the appropriate, fair, and meaningful use of people’s personal information/data**.
 
  >  <span style="color:purple">**Please see the [Students](/students/) page for PhD recruitment.**</span>
 
