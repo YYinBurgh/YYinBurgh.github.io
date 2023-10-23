@@ -13,7 +13,7 @@ You may find more about my research under the [Research](/research) page or by r
 
 ## Prospective Ph.D. Students
 
-I have Ph.D. positions in <a href="https://www.uvm.edu/cems/cs" target="_blank">Computer Science</a> starting Fall 2024. Strong candidates should be self-motivated, passionate about research, interested in human-centered computing, and have programming skills. Ph.D. students at UVM typically are funded with full tuition and a stipend. You may learn more about the Ph.D. program <a href="https://www.uvm.edu/cems/cs/graduate_programs/computer_science_phd" target="_blank">here</a>.
+I have Ph.D. positions in <a href="https://www.uvm.edu/cems/cs" target="_blank">Computer Science</a> starting Fall 2024. Strong candidates should be self-motivated, passionate about research, interested in human-centered computing, and have programming skills. Ph.D. students at UVM typically are funded with full tuition and a minimum stipend rate of $32,000/year. You may learn more about the Ph.D. program <a href="https://www.uvm.edu/cems/cs/graduate_programs/computer_science_phd" target="_blank">here</a>.
 
 I'm looking for candidates with one or more of the following qualifications: (1) prior experience in designing, implementing, and evaluating human-centered computing systems; (2) skills in developing user-facing web/mobile applications; (3) knowledge in data science/machine learning/artificial intelligence (DS/ML/AI); and (4) interdisciplinary research backgrounds related to computing (e.g., information science, social science, psychology). **Candidates from under-reprensented groups in computing are strongly encouraged!**
  
@@ -27,7 +27,7 @@ The subject of the email should start with “**[Prospective-PhD]**”. I will r
 
 ## Undergraduate/Master's Students at UVM
 
-I enjoy working with motivated undergraduate and master's students on smaller and hands-on projects that are related to my research expertise. Many undergarduate and master's students who worked with me are now at big tech companies (e.g., Google, Facebook, Amazon). Projects are often available for students with skills in **qualitative research methods, statistical analysis, and web/mobile app development**.
+I enjoy working with motivated undergraduate and master's students on smaller and hands-on projects that are related to my research expertise. Many undergarduate and master's students who worked with now work at big tech companies (e.g., Google, Facebook, Amazon). Projects are often available for students with skills in **qualitative research methods, statistical analysis, and web/mobile app development**.
 
 **Current UVM undergraduate or master's students** interested in working with me,  please email me with the following information: 
 1. A brief introduction of yourself;
