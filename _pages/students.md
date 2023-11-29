@@ -7,9 +7,7 @@ redirect_from:
   - /student/
 ---
 
-I'm looking for students who are excited about designing and building human-centered computing systems to improve people’s personal wellbeing and to achieve greater social good. Generally, prospective students should have strong interest in one or more of my research areas: **human-computer interaction (HCI), usable privacy & security, privacy-enhancing technologies, health informatics, trustworthy & inclusive artificial intelligence/machine learning (AI/ML)**. 
-
-You may find more about my research under the [Research](/research) page or by reading some of my recent publications via <a href="https://scholar.google.com/citations?hl=en&user=XjkbPSwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"> GoogleScholar</a>.
+I'm looking for students who are excited about designing and building human-centered computing systems to improve people’s personal wellbeing and to achieve greater social good. Generally, prospective students should have strong interest in one or more of my research areas: **human-computer interaction (HCI), usable privacy & security, privacy-enhancing technologies, health informatics, trustworthy & inclusive artificial intelligence/machine learning (AI/ML)**. You may find more about my research under the [Research](/research) page or by reading some of my recent publications via <a href="https://scholar.google.com/citations?hl=en&user=XjkbPSwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"> GoogleScholar</a>.
 
 ## Prospective Ph.D. Students
 
