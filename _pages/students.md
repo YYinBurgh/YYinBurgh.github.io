@@ -27,7 +27,8 @@ The subject of the email should start with “**[Prospective-PhD]**”. I will r
 
 I enjoy working with motivated undergraduate and master's students on smaller and hands-on projects that are related to my research expertise. Many undergarduate and master's students who worked with now work at big tech companies (e.g., Google, Facebook, Amazon). Projects are often available for students with skills in **qualitative research methods, statistical analysis, and web/mobile app development**. Current UVM undergraduate or master's students interested in working with me should email me **a short description of your background, research interests, and relevant skills**. The subject of the email should start with “**[UVM-student]**”. We may find a time to meet and discuss potential projects.
 
-## Useful Resources for My Students
+## Useful Resources for My Graduate Students
+- <a href="https://stearnslab.yale.edu/modest-advice" target="_blank"> Modest Advice for Graduate Students</a>
 - <a href="https://greatresearch.org/2013/08/14/managing-your-advisor/" target="_blank"> Managing Your Advisor </a>
 - <a href="https://greatresearch.org/2013/10/11/storytelling-101-writing-tips-for-academics" target="_blank"> Writing tips for Academics </a>
 - <a href="https://drive.google.com/file/d/0Bzis5MXW83vCdUdXYnFIVDVOSkE/view?resourcekey=0-z3gPdGk4ptNuguAM8e8liQ" target="_blank"> How to Have a Bad Career in Research/Academia </a> (slides)
