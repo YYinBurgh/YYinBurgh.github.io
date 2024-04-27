@@ -18,7 +18,7 @@ My [Research](/research/) is at the intersection of **human-computer interaction
 
 ## News
 
-- **(Apr 2024)** Super excited to share <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2348294" target="_blank">my new award</a> titled **A Contextual Integrity Approach for Privacy Reasoning Regarding Performance Tracking Technologies in US College Athletics**. Many thanks to U.S. National Science Foundation!
+- **(Apr 2024)** Excited to share <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2348294" target="_blank">my CRII award</a> titled **A Contextual Integrity Approach for Privacy Reasoning Regarding Performance Tracking Technologies in US College Athletics**. Many thanks to U.S. National Science Foundation!
 
 - **(Oct 2023)** My <a href="https://www.usenix.org/system/files/sec24summer-prepub-207-feng.pdf" target="_blank">first-authored paper</a>, titled **"Understanding how to inform blind and low-vision users about data privacy through privacy question answering assistants"**, is accepted by the 2024 USENIX Security Symposium! Read our preprint for insights into blind and low-vision users' expectations when it comes to usability, accessibility, trust and equity issues regarding digital data privacy.
 
