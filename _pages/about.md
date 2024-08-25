@@ -17,6 +17,7 @@ My [Research](/research/) is at the intersection of **human-computer interaction
 <!--- News --->
 
 ## News
+- **(August 2024)** I'm super excited to share <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2336550" target="_blank">our NSF SaTC award</a> with my Co-PI Dr. Joe Near -- **A Novel Mechanism for Effective and Accountable Communication of Differential Privacy through Multi-Stakeholder Research**. We hope our research can facilitate the broader adoption of differential privacy!
 
 - **(August 2024)** My <a href="https://www.usenix.org/system/files/usenixsecurity24-feng-yuanyuan.pdf" target="_blank">first-authored paper</a>, titled **"Understanding how to inform blind and low-vision users about data privacy through privacy question answering assistants"** at the 2024 USENIX Security Symposium provides insights into blind and low-vision users' expectations when it comes to usability, accessibility, trust and equity issues regarding digital data privacy.
 
