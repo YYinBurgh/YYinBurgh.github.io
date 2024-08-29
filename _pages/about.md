@@ -17,6 +17,9 @@ My [Research](/research/) is at the intersection of **human-computer interaction
 <!--- News --->
 
 ## News
+
+- **(August 2024)** My <a href="https://www.jmir.org/2024/1/e57309" target="_blank"> first-authored paper</a>, titled **"Contextual acceptance of COVID-19 mitigation mobile apps in the United States: Mixed methods survey study on postpandemic data privacy"**, has been publihsed in the Journal of Medical Internet Research!
+
 - **(August 2024)** I'm super excited to share <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2336550" target="_blank">our NSF SaTC award</a> with my Co-PI Dr. Joe Near -- **A Novel Mechanism for Effective and Accountable Communication of Differential Privacy through Multi-Stakeholder Research**. We hope our research can facilitate the broader adoption of differential privacy!
 
 - **(August 2024)** My <a href="https://www.usenix.org/system/files/usenixsecurity24-feng-yuanyuan.pdf" target="_blank">first-authored paper</a>, titled **"Understanding how to inform blind and low-vision users about data privacy through privacy question answering assistants"** at the 2024 USENIX Security Symposium provides insights into blind and low-vision users' expectations when it comes to usability, accessibility, trust and equity issues regarding digital data privacy.
@@ -25,8 +28,7 @@ My [Research](/research/) is at the intersection of **human-computer interaction
 
 - **(April 2024)** Excited to share <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2348294" target="_blank">my CRII award</a> -- **A Contextual Integrity Approach for Privacy Reasoning Regarding Performance Tracking Technologies in US College Athletics**. Many thanks to U.S. National Science Foundation!
 
-- **(July 2023)** My <a href="https://www.computer.org/csdl/proceedings-article/eurosp/2023/651200b030/1OFthX4Qhbi" target="_blank"> co-authored paper</a>, titled **"Exploring smart commercial building occupants’ perceptions and notification preferences of Internet of Things data collection in the United States"**, published by the 2023 IEEE European Symposium on Security and
-Privacy (EuroS&P)!
+<!------- **(July 2023)** My <a href="https://www.computer.org/csdl/proceedings-article/eurosp/2023/651200b030/1OFthX4Qhbi" target="_blank"> co-authored paper</a>, titled **"Exploring smart commercial building occupants’ perceptions and notification preferences of Internet of Things data collection in the United States"**, published by the 2023 IEEE European Symposium on Security and Privacy (EuroS&P)!  --->
 
 <!------ - **(July 2022)** Happy to share <a href="https://petsymposium.org/2022/files/papers/issue4/popets-2022-0106.pdf" target="_blank"> our paper</a>, titled **"How usable are iOS app privacy labels?"**, that examines the usability of Apple's iOS app privacy label from end users' perspective. Published in the Proceedings of Privacy Enhancing Technologies (PoPETS). Read <a href="https://www.cylab.cmu.edu/news/2022/07/25-ios-privacy-labels-miss-mark.html" target="_blank"> CyLab's news article</a> about this research! --->
 
