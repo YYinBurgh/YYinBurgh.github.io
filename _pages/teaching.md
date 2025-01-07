@@ -12,10 +12,10 @@ redirect_from:
 ## University of Vermont, Department of Computer Science
 
 ### Instructor and Course Creator
--  **NEW!!! CS2880 Inclusive Computing** Catamount Core D2 (Fall 2023)
+-  **NEW!!! CS2880 Inclusive Computing** Catamount Core Diversity 2 (Fall 2023)
     - This course introduces the concept of identity (e.g., race, ethnicity, gender, class, ability, intersectionality) and how it manifests in the broad field of computing. This course provides theoretical foundation to understand biases in computing, discusses a wide range of diversity, equity, and inclusion (DEI) problems in computing, and explore the root causes for such DEI problems in real-world computing systems (e.g., algorithms, AI, data, design).
 
--  **CS6550 Usable Privacy and Security** previously CS295/395 (Spring 2022-2024)
+-  **CS6550 Usable Privacy and Security** previously CS295/395 (Spring 2022-2025)
     - From security breaches to data leak, from stolen passwords to data misuse. For all the security and privacy problems we face today, technology alone cannot provide us satisfactory solutions. Human factors play an essential role in ensuring privacy and security in today’s computer systems. This course covers human factors in privacy and security, usability problems in today’s computer security and privacy mechanisms, as well as human-centered research methods to understand and address these usability problems.
 
 -  **CS3280 Human-Computer Interaction** previously CS228 (Fall 2021-2023)
