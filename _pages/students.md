@@ -7,10 +7,12 @@ redirect_from:
   - /student/
 ---
 ## My Students
-### Current students
+### Current Students
 - Brad Stenger (PhD, 2023 - now)
 - Tamunotonye Harry (PhD, 2023 - now)
 - Mengyi Lu (PhD, 2024 - now)
+### Alumni
+- Nikhil Sai Reddy Choppa (MS, 2023)
 
 ## Prospective students
 
@@ -20,11 +22,9 @@ I'm looking for students who are excited about designing and building human-cent
 
 I may have Ph.D. positions in Computer Science starting Fall 2026. Please check this page again in late 2025 for updates. Strong candidates should be self-motivated, passionate about research, interested in human-centered computing, and have programming skills. Ph.D. students at UVM typically are funded with full tuition and a minimum stipend of $34,500/year. Learn about the Ph.D. program <a href="https://www.uvm.edu/cems/cs/program/phd-computer-science" target="_blank">here</a>.
 
-I'm looking for candidates with one or more the following qualifications: (1) prior experience in designing, implementing, and evaluating human-centered computing systems; (2) skills in developing user-facing web/mobile applications; (3) knowledge in machine learning/artificial intelligence (ML/AI); and (3) knowledge in quantitative and qualitative research methods.
+I'm looking for students with one or more the following qualifications: (1) prior experience in designing, implementing, and evaluating human-centered computing systems; (2) skills in developing user-facing web/mobile applications; (3) knowledge in machine learning/artificial intelligence (ML/AI); and (3) knowledge in quantitative and qualitative research methods.
  
-**If you want to pursue your Ph.D. under my mentorship**, please email me with the following information: (1) A brief introduction of yourself; (2) Your CV or resume; (3) **A short description of how your research interests align with my research expertise**.
-
-The subject of the email should start with “**[Prospective-PhD]**”. I will reach out if there is a potential good fit.
+**If you want to pursue your Ph.D. under my mentorship**, please email me with the following information: (1) A brief introduction of yourself; (2) Your CV or resume; (3) **A short description of how your research interests align with my research expertise**. The subject of the email should start with “**[Prospective-PhD]**”. I will reach out if there is a potential good fit.
 
 ### Current Undergraduate/Master's Students at UVM
 
