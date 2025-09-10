@@ -8,15 +8,15 @@ redirect_from:
 ---
 ## My Students
 ### Current Students
-- Brad Stenger (PhD, 2023 - now)
-- Tamunotonye Harry (PhD, 2023 - now)
-- Mengyi Lu (PhD, 2024 - now)
+- Brad Stenger (Ph.D. student, 2023 - now)
+- Tamunotonye Harry (Ph.D. student, 2023 - now)
+- Mengyi Lu (Ph.D. student, 2024 - now)
 ### Alumni
-- Nikhil Sai Reddy Choppa (MS, 2023)
+- Nikhil Sai Reddy Choppa (M.S. Computer Science, UVM,  2023)
 
 ## Prospective students
 
-I'm looking for students who are excited about designing and building human-centered computing systems to improve people’s personal wellbeing and to achieve greater social good. Generally, prospective students should have strong interest in one or more of my research areas: **human-computer interaction (HCI), usable privacy & security, privacy-enhancing technologies, health informatics, responsible artificial intelligence/machine learning (AI/ML)**. You may find more about my research under the [Research](/research) page or by reading some of my recent publications via <a href="https://scholar.google.com/citations?hl=en&user=XjkbPSwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"> GoogleScholar</a>.
+I'm looking for students who are excited about designing and building human-centered computing systems to improve people’s personal wellbeing and to achieve greater social good. I want to work with students who are passionate about one of these research areas: **human-computer interaction (HCI), usable privacy & security, privacy-enhancing technologies, health informatics, responsible artificial intelligence/machine learning (AI/ML)**. You may find more about my research under the [Research](/research) page or by reading some of my recent publications via <a href="https://scholar.google.com/citations?hl=en&user=XjkbPSwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"> GoogleScholar</a>.
 
 ### Prospective Ph.D. Students
 
