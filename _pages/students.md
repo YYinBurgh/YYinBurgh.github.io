@@ -6,24 +6,27 @@ author_profile: true
 redirect_from:
   - /student/
 ---
+## My Students
+### Current students
+- Brad Stenger (PhD, 2023 - now)
+- Tamunotonye Harry (PhD, 2023 - now)
+- Mengyi Lu (PhD, 2024 - now)
 
-I'm looking for students who are excited about designing and building human-centered computing systems to improve people’s personal wellbeing and to achieve greater social good. Generally, prospective students should have strong interest in one or more of my research areas: **human-computer interaction (HCI), usable privacy & security, privacy-enhancing technologies, health informatics, trustworthy & inclusive artificial intelligence/machine learning (AI/ML)**. You may find more about my research under the [Research](/research) page or by reading some of my recent publications via <a href="https://scholar.google.com/citations?hl=en&user=XjkbPSwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"> GoogleScholar</a>.
+## Prospective students
 
-## Prospective Ph.D. Students
+I'm looking for students who are excited about designing and building human-centered computing systems to improve people’s personal wellbeing and to achieve greater social good. Generally, prospective students should have strong interest in one or more of my research areas: **human-computer interaction (HCI), usable privacy & security, privacy-enhancing technologies, health informatics, responsible artificial intelligence/machine learning (AI/ML)**. You may find more about my research under the [Research](/research) page or by reading some of my recent publications via <a href="https://scholar.google.com/citations?hl=en&user=XjkbPSwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"> GoogleScholar</a>.
 
-I may have Ph.D. positions in Computer Science starting Fall 2026. Please check this page again in late 2025 for updates. Strong candidates should be self-motivated, passionate about research, interested in human-centered computing, and have programming skills. Ph.D. students at UVM typically are funded with full tuition and a minimum stipend of $32,000/year. Learn about the Ph.D. program <a href="https://www.uvm.edu/cems/cs/program/phd-computer-science" target="_blank">here</a>.
+### Prospective Ph.D. Students
 
-I'm looking for candidates with one or more the following qualifications: (1) prior experience in designing, implementing, and evaluating human-centered computing systems; (2) skills in developing user-facing web/mobile applications; (3) knowledge in machine learning/artificial intelligence (ML/AI); and (3) knowledge in quantitative and qualitative research methods. **Candidates from under-reprensented groups in computing are strongly encouraged to apply!**
+I may have Ph.D. positions in Computer Science starting Fall 2026. Please check this page again in late 2025 for updates. Strong candidates should be self-motivated, passionate about research, interested in human-centered computing, and have programming skills. Ph.D. students at UVM typically are funded with full tuition and a minimum stipend of $34,500/year. Learn about the Ph.D. program <a href="https://www.uvm.edu/cems/cs/program/phd-computer-science" target="_blank">here</a>.
+
+I'm looking for candidates with one or more the following qualifications: (1) prior experience in designing, implementing, and evaluating human-centered computing systems; (2) skills in developing user-facing web/mobile applications; (3) knowledge in machine learning/artificial intelligence (ML/AI); and (3) knowledge in quantitative and qualitative research methods.
  
-**If you want to pursue your Ph.D. under my mentorship**, please email me with the following information: 
-1. A brief introduction of yourself;
-2. Your CV or resume; 
-3. **A short description of how your research interests align with my research expertise**; and 
-4. Representative publications or writing samples (course papers are okay).
+**If you want to pursue your Ph.D. under my mentorship**, please email me with the following information: (1) A brief introduction of yourself; (2) Your CV or resume; (3) **A short description of how your research interests align with my research expertise**.
 
 The subject of the email should start with “**[Prospective-PhD]**”. I will reach out if there is a potential good fit.
 
-## Current Undergraduate/Master's Students at UVM
+### Current Undergraduate/Master's Students at UVM
 
 I enjoy working with motivated undergraduate and master's students on smaller and hands-on projects that are related to my research expertise. Many undergarduate and master's students who worked with now work at big tech companies (e.g., Google, Facebook, Amazon). Projects are often available for students with skills in **qualitative research methods, statistical analysis, and web/mobile app development**. Current UVM undergraduate or master's students interested in working with me should email me **a short description of your background, research interests, and relevant skills**. The subject of the email should start with “**[UVM-student]**”. We may find a time to meet and discuss potential projects.
 
