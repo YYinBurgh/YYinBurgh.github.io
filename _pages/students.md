@@ -11,8 +11,8 @@ redirect_from:
 - Brad Stenger (Ph.D. student, 2023 - now)
 - Tamunotonye Harry (Ph.D. student, 2023 - now)
 - Mengyi Lu (Ph.D. student, 2024 - now)
-
-### Alumni
+  
+### Lab Alumni
 - Nikhil Sai Reddy Choppa (M.S. Computer Science, UVM,  2023)
 
 ## Prospective students
