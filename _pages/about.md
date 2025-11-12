@@ -19,7 +19,7 @@ My [Research](/research/) is at the intersection of **human-computer interaction
 ## News
 - **(November 2025)** My doctoral student Tamunotonye Harry's first-authored <a href="https://www.ahajournals.org/doi/10.1161/CIRCOUTCOMES.125.012945" target="_blank">journal article</a> describing how we leveraged web analytics to improve cadiovascular clinical trial recruitment is accetped by the high impact factor medical journal -- Circulation: Cardiovascular Quality and Outcomes! 
 
-- **(August 2025)** Our <a href="https://arxiv.org/pdf/2507.15997" target="_blank">paper</a> first-authored by Onyinye Dibia, titled **"We need a standard": Toward an expert-informed privacy label for differential privacy**, is accepted by the Proceedings on Privacy Enhancing Technologies Symposium (PoPETS). We plan to present this work at PETS 2026!
+- **(August 2025)** This <a href="https://arxiv.org/pdf/2507.15997" target="_blank">qualitative research paper</a> first-authored by our amazing doctoral student Onyinye Dibia, titled **"We need a standard": Toward an expert-informed privacy label for differential privacy**, is accepted by the Proceedings on Privacy Enhancing Technologies Symposium (PoPETS). We plan to present this work at PETS 2026!
 
 - **(July 2025)** Our <a href="https://petsymposium.org/popets/2025/popets-2025-0162.php" target="_blank">Systematization of Knowledge (SoK) paper</a> analyzing the landscape of usability studies in differential privacy is accepted by the Proceedings on Privacy Enhancing Technologies Symposium (PoPETS). The amazing doctoral student and first author Onyinye Dibia presents this work at PETS 2025 in Washington DC on July 15.
 
