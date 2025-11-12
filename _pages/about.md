@@ -17,8 +17,11 @@ My [Research](/research/) is at the intersection of **human-computer interaction
 <!--- News --->
 
 ## News
+- **(November 2025)** My doctoral student Tamunotonye Harry's first-authored <a href="https://www.ahajournals.org/doi/10.1161/CIRCOUTCOMES.125.012945" target="_blank">journal article</a> describing how we leveraged web analytics to improve cadiovascular clinical trial recruitment is accetped by the high impact factor medical journal -- Circulation: Cardiovascular Quality and Outcomes! 
 
-- **(July 2025)** Our Systematization of Knowledge (SoK) paper analyzing the landscape of usability studies in differential privacy will appear in Issue 4 of the Proceedings on Privacy Enhancing Technologies Symposium (PoPETS). The amazing doctoral student and first author Onyinye Dibia will present this work at <a href="https://petsymposium.org/2025/" target="_blank">PETS 2025</a> in Washington DC on July 15.
+- **(August 2025)** The student-led paper titled **"We need a standard": Toward an expert-informed privacy label for differential privacy.** is accepted by the Proceedings on Privacy Enhancing Technologies Symposium (PoPETS)!
+
+- **(July 2025)** Our <a href="https://petsymposium.org/popets/2025/popets-2025-0162.php" target="_blank">Systematization of Knowledge (SoK) paper</a> analyzing the landscape of usability studies in differential privacy is accepted by the Proceedings on Privacy Enhancing Technologies Symposium (PoPETS). The amazing doctoral student and first author Onyinye Dibia presents this work at PETS 2025 in Washington DC on July 15.
 
 - **(August 2024)** My <a href="https://www.jmir.org/2024/1/e57309" target="_blank"> first-authored paper</a>, titled **"Contextual acceptance of COVID-19 mitigation mobile apps in the United States: Mixed methods survey study on postpandemic data privacy"**, has been publihsed in the Journal of Medical Internet Research!
 
