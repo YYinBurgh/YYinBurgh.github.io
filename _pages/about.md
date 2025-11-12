@@ -19,7 +19,7 @@ My [Research](/research/) is at the intersection of **human-computer interaction
 ## News
 - **(November 2025)** My doctoral student Tamunotonye Harry's first-authored <a href="https://www.ahajournals.org/doi/10.1161/CIRCOUTCOMES.125.012945" target="_blank">journal article</a> describing how we leveraged web analytics to improve cadiovascular clinical trial recruitment is accetped by the high impact factor medical journal -- Circulation: Cardiovascular Quality and Outcomes! 
 
-- **(August 2025)** The student-led paper titled **"We need a standard": Toward an expert-informed privacy label for differential privacy.** is accepted by the Proceedings on Privacy Enhancing Technologies Symposium (PoPETS)!
+- **(August 2025)** Our <a href="https://arxiv.org/pdf/2507.15997" target="_blank">paper</a> first-authored by Onyinye Dibia, titled **"We need a standard": Toward an expert-informed privacy label for differential privacy**, is accepted by the Proceedings on Privacy Enhancing Technologies Symposium (PoPETS). We plan to present this work at PETS 2026!
 
 - **(July 2025)** Our <a href="https://petsymposium.org/popets/2025/popets-2025-0162.php" target="_blank">Systematization of Knowledge (SoK) paper</a> analyzing the landscape of usability studies in differential privacy is accepted by the Proceedings on Privacy Enhancing Technologies Symposium (PoPETS). The amazing doctoral student and first author Onyinye Dibia presents this work at PETS 2025 in Washington DC on July 15.
 
@@ -31,4 +31,4 @@ My [Research](/research/) is at the intersection of **human-computer interaction
 
 - **(August 2024)** Happy to share <a href="https://www.usenix.org/system/files/soups2024-ngong.pdf" target="_blank"> our paper</a>, titled **"Evaluating the usability of differential privacy tools with data practitioners?"** at the 2024 USENIX SOUPS! Through a usability study on four Python-based differential privacy (DP) tools, we provide evidence-based recommendations to improve DP tools’ usability to broaden DP adoption.
 
-- **(April 2024)** I'm happy to share <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2348294" target="_blank">my CRII award</a> -- **A Contextual Integrity Approach for Privacy Reasoning Regarding Performance Tracking Technologies in US College Athletics**. Many thanks to U.S. National Science Foundation!
+- **(April 2024)** I'm happy to share <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2348294" target="_blank">my CRII award</a> -- **A Contextual Integrity Approach for Privacy Reasoning Regarding Performance Tracking Technologies in US College Athletics**. Many thanks to the National Science Foundation!
