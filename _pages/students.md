@@ -21,7 +21,7 @@ I'm looking for students who are excited about designing and building human-cent
 
 ### Prospective Ph.D. Students
 
-I may have Ph.D. positions in Computer Science starting Fall 2026. Strong candidates should be self-motivated, passionate about research, interested in human-centered computing, and have programming skills. Ph.D. students at UVM typically are funded with full tuition and a minimum stipend of $34,500/year. Learn about the Ph.D. program <a href="https://www.uvm.edu/cems/cs/program/phd-computer-science" target="_blank">here</a>.
+I may have Ph.D. positions in Computer Science starting Fall 2027. Strong candidates should be self-motivated, passionate about research, interested in human-centered computing, and have programming skills. Ph.D. students at UVM typically are funded with full tuition and a minimum stipend of $34,500/year. Learn about the Ph.D. program <a href="https://www.uvm.edu/cems/cs/program/phd-computer-science" target="_blank">here</a>.
 
 I'm looking for students with these qualifications: (1) prior experience in designing, implementing, and evaluating human-centered computing systems; (2) development skills for user-facing web/mobile applications; (3) technical skills in machine learning/artificial intelligence (ML/AI); (4) knowledge in quantitative and qualitative research methods.
  
