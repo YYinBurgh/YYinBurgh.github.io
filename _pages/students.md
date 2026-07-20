@@ -8,12 +8,14 @@ redirect_from:
 ---
 ## My Students
 ### Current Students
-- Brad Stenger (Ph.D. student, 2023 - now)
-- Tamunotonye Harry (Ph.D. student, 2023 - now)
-- Mengyi Lu (Ph.D. student, 2024 - now)
-  
+- Thi Thanh Thanh Tran (M.S. student, CSDS, UVM, 2026 - now)
+- Mengyi Lu (Ph.D. student, Computer Science, UVM, 2024 - now)
+- Tamunotonye Harry (Ph.D. student, Computer Science, UVM, 2023 - now)
+- Brad Stenger (Ph.D. student, Computer Science, UVM, 2023 - now)
+
+
 ### Lab Alumni
-- Nikhil Sai Reddy Choppa (M.S. Computer Science, UVM,  2023)
+- Nikhil Sai Reddy Choppa (M.S. Computer Science, UVM, 2023)
 
 ## Prospective students
 
@@ -21,17 +23,17 @@ I'm looking for students who are excited about designing and building human-cent
 
 ### Prospective Ph.D. Students
 
-I may have Ph.D. positions in Computer Science starting Fall 2027. Strong candidates should be self-motivated, passionate about research, interested in human-centered computing, and have programming skills. Ph.D. students at UVM typically are funded with full tuition and a minimum stipend of $34,500/year. Learn about the Ph.D. program <a href="https://www.uvm.edu/cems/cs/program/phd-computer-science" target="_blank">here</a>.
+I may have Ph.D. positions in Computer Science starting Fall 2027. Strong candidates should be self-motivated, passionate about research, interested in human-centered computing, and have programming skills. Ph.D. students at UVM typically are funded with full tuition and a minimum stipend of $36,000/year. Learn about the Ph.D. program <a href="https://www.uvm.edu/cems/cs/program/phd-computer-science" target="_blank">here</a>.
 
-I'm looking for students with these qualifications: (1) prior experience in designing, implementing, and evaluating human-centered computing systems; (2) development skills for user-facing web/mobile applications; (3) technical skills in machine learning/artificial intelligence (ML/AI); (4) knowledge in quantitative and qualitative research methods.
+I'm looking for students with some of these qualifications: (1) prior experience in designing, implementing, and evaluating human-centered computing systems; (2) development skills for user-facing web/mobile applications; (3) technical skills in machine learning/artificial intelligence (ML/AI); (4) knowledge in quantitative and qualitative research methods.
  
-**If you want to pursue your Ph.D. under my mentorship**, please email me with the following information: (1) A brief introduction of yourself; (2) Your CV or resume; (3) **A short description of how your research interests align with my research expertise**; (4) Your publications (if any). The subject of the email should start with “**[Prospective-PhD]**”. I will reach out if there is a potential good fit.
+**If you want to pursue your Ph.D. under my mentorship**, please email me with the following information: (1) A brief introduction of yourself; (2) Your CV or resume; (3) **A short description of how your research interests align with my research expertise**; (4) Your publications (optional). The subject of the email should start with “**[Prospective-PhD]**”. I will reach out if there is a potential good fit.
 
 ### Current Undergraduate/Master's Students at UVM
 
-I enjoy working with motivated undergraduate and master's students on smaller and hands-on projects that are related to my research expertise. Many undergarduate and master's students who worked with now work at big tech companies (e.g., Google, Facebook, Amazon). Projects are often available for students with skills in **qualitative research methods, statistical analysis, or web/mobile app development**. Current UVM undergraduate or master's students interested in working with me should email me **a short description of your background, research interests, and relevant skills**. The subject of the email should start with “**[UVM-student]**”. We may find a time to meet and discuss potential projects.
+I enjoy working with motivated undergraduate and master's students on smaller and hands-on projects that are related to my research expertise. Many undergarduate and master's students who worked with now work at leading tech companies. Projects are often available for students with skills in **qualitative/quantitative research methods, or web/mobile app development**. Current UVM undergraduate or master's students interested in working with me should email me **a short description of your background, research interests, and relevant skills**. The subject of the email should start with “**[UVM-student]**”. We can find a time to meet and discuss potential projects.
 
-## Useful Resources for Graduate Students
+## Useful Resources for Ph.D. Students
 - <a href="https://stearnslab.yale.edu/modest-advice" target="_blank"> Modest Advice for Graduate Students</a>
 - <a href="https://drive.google.com/file/d/0Bzis5MXW83vCdUdXYnFIVDVOSkE/view?resourcekey=0-z3gPdGk4ptNuguAM8e8liQ" target="_blank"> How to Have a Bad Career in Research/Academia </a> (slides)
 - - <a href="https://phdamerica.com/index.php/2025/08/08/your-phds-most-important-relationship-a-guide-to-managing-your-advisor/" target="_blank"> Managing Your Advisor </a>
