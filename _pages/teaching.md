@@ -22,7 +22,7 @@ redirect_from:
 -  **CS2880 Inclusive Computing** Catamount Core Diversity 2 (Fall 2023)
     - This course introduces the concept of identity (e.g., race, ethnicity, gender, class, ability, intersectionality) and how it manifests in the broad field of computing. This course provides theoretical foundation to understand biases in computing, discusses a wide range of diversity, equity, and inclusion (DEI) problems in computing, and explore the root causes for such DEI problems in real-world computing systems (e.g., algorithms, AI, data, design).
 
-## Drexel University, College of Computing & Informatics
+## Drexel University
 ### Instructor (2016-2017)
 - INFO649: Library Programming
 - INFO753: Introduction to Digital Curation
