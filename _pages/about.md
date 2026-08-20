@@ -10,10 +10,10 @@ redirect_from:
 
 I'm an Assistant Professor in the <a href="https://www.uvm.edu/cems/cs" target="_blank">Department of Computer Science</a> at the <a href="https://www.uvm.edu/" target="_blank">University of Vermont (UVM)</a>. Before joining UVM, I was a postdoctoral researcher in the <a href="https://www.cs.cmu.edu/" target="_blank">School of Computer Science</a> at <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University (CMU)</a> and earned my PhD degree from <a href="http://drexel.edu/" target="_blank">Drexel University</a>.
 
-My [Research](/research/) asks how people can benefit from data-intensive computing without surrendering privacy, agency, or equitable access. I design and build **human-centered security and privacy systems** at the intersection of **human-computer interaction (HCI), responsible artificial intelligence (AI), and health informatics**. I investigate technical, societal, and interdisciplinary research questions to ensure **future data-intensive computing systems are technically capable, ethically grounded, accessible to diverse users, and accountable in the contexts where they operate.**.
+My [Research](/research/) asks how people can benefit from data-intensive computing without surrendering privacy, agency, or equitable access. I design and build **human-centered security and privacy systems** at the intersection of **human-computer interaction (HCI), responsible artificial intelligence (AI), and health informatics**. I investigate technical, societal, and interdisciplinary research questions to ensure **future data-intensive computing systems are technically capable, ethically grounded, accessible to diverse users, and accountable in the contexts where they operate.**
 
 
- >  <span style="color:purple">**Please see the [Students](/students/) page for my PhD recruitment plan.**</span>
+ >  <span style="color:purple">**Please see the [Students](/students/) page for my student recruitment plan.**</span>
 
 <!--- News --->
 
