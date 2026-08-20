@@ -4,7 +4,7 @@ layout: archive
 permalink: /research/
 ---
 
-I am a human-centered computing researcher, with strong interdisciplinary expertise in **human-computer interaction, privacy &amp; security, Internet of Things (IoT), health informatics, and responsible artificial intelligence (AI)**. 
+I am a human-centered computing researcher, with strong interdisciplinary expertise in **human-computer interaction, privacy &amp; security, health informatics, and responsible artificial intelligence (AI)**. 
 My research aims to build an ideal future **where data-intensive computing technologies use people’s personal data in appropriate, ethical, and meaningful ways**. My current research emphasizes three reinforcing areas:
 
 - **Usable and accountable privacy mechanisms**: I design mechanisms that help users exercise informed privacy choices while motivating developers and data practitioners to adopt privacy-enhancing technologies and practices.
