@@ -18,9 +18,9 @@ My [Research](/research/) asks how people can benefit from data-intensive comput
 <!--- News --->
 
 ## News
-- **(August 2026)** Two publications from the American Heart Association-funded Digital Advertisements for Inclusive Trial Accrual (DAITA) project were published! <a href="https://doi.org/10.1016/j.cct.2026.108413" target="_blank">One paper</a> summarizes how motivational themes affect trial recruitment efficiency and <a href="https://www.jmir.org/2026/1/e92813" target="_blank">the other paper</a> provides a practical tutorial on leveraging social media influencer marketing for clinical trial recruitment.
+- **(August 2026)** Two papers from our American Heart Association-funded Digital Advertisements for Inclusive Trial Accrual (DAITA) project were published! <a href="https://doi.org/10.1016/j.cct.2026.108413" target="_blank">One</a> summarizes how motivational themes affect trial recruitment efficiency and <a href="https://www.jmir.org/2026/1/e92813" target="_blank">the other</a> provides a practical tutorial on leveraging social media influencer marketing for clinical trial recruitment.
 
-- **(July 2026)** Check out how we designed the initial version of a privacy label for differential privacy in <a href="https://crysp.petsymposium.org/popets/2026/popets-2026-0004.pdf" target="_blank">our paper</a> titled **"We need a standard": Toward an expert-informed privacy label for differential privacy**. My doctoral student Mengyi Lu presented this work at PETS 2026 in Calgary, Canada.
+- **(July 2026)** Check out how we designed the initial privacy label for differential privacy in <a href="https://crysp.petsymposium.org/popets/2026/popets-2026-0004.pdf" target="_blank">our paper</a> titled **"We need a standard": Toward an expert-informed privacy label for differential privacy**. My doctoral student Mengyi Lu presented this work at PETS 2026 in Calgary, Canada.
 
 - **(July 2026)** My doctoral student Tamunotonye Harry presented his first-authored <a href="https://aclanthology.org/2026.findings-acl.1316.pdf" target="_blank">paper</a> describing how to create more realistic personas beyond fixed pscyhological traits at the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026).
 
