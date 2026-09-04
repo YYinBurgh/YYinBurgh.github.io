@@ -30,8 +30,8 @@ I may have Ph.D. positions in Computer Science starting Fall 2027. Strong candid
 
 I enjoy working with motivated undergraduate and master's students on smaller and hands-on projects that are related to my research expertise. Many undergraduate and master's students who worked with now work at leading tech companies. Projects are often available for students with skills in **qualitative/quantitative research methods and software development**. Current UVM undergraduate or master's students interested in working with me should email me **a short description of your background, research interests, and relevant skills**. The subject of the email should start with “**[UVM-student]**”. We can find a time to meet and discuss potential projects.
 
-## Useful Resources for Ph.D. Students
+## Other Information for Ph.D. Students
 - <a href="https://stearnslab.yale.edu/modest-advice" target="_blank"> Modest Advice for Graduate Students</a>
 - <a href="https://drive.google.com/file/d/0Bzis5MXW83vCdUdXYnFIVDVOSkE/view?resourcekey=0-z3gPdGk4ptNuguAM8e8liQ" target="_blank"> How to Have a Bad Career in Research/Academia </a> (slides)
-- - <a href="https://phdamerica.com/index.php/2025/08/08/your-phds-most-important-relationship-a-guide-to-managing-your-advisor/" target="_blank"> Managing Your Advisor </a>
+- <a href="https://phdamerica.com/index.php/2025/08/08/your-phds-most-important-relationship-a-guide-to-managing-your-advisor/" target="_blank"> Managing Your Advisor </a>
 
