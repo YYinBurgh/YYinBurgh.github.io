@@ -4,7 +4,7 @@ layout: archive
 permalink: /research/
 ---
 
-I am a human-centered computing researcher, with strong interdisciplinary expertise in **human-computer interaction, privacy &amp; security, health informatics, and responsible artificial intelligence (AI)**. 
+I am a human-centered computing researcher, with strong interdisciplinary expertise in **privacy &amp; security, health informatics, and responsible artificial intelligence (AI)**.
 My research aims to build an ideal future **where data-intensive computing technologies use people’s personal data in appropriate, ethical, and meaningful ways**. My current research emphasizes three reinforcing areas:
 
 - **Usable and accountable privacy mechanisms**: I design mechanisms that help users exercise informed privacy choices while motivating developers and data practitioners to adopt privacy-enhancing technologies and practices.
@@ -12,7 +12,7 @@ My research aims to build an ideal future **where data-intensive computing techn
 - **Responsible, inclusive, and privacy-enhancing AI**: I develop and evaluate human-centered AI systems, with particular attention to accessibility, trust, and heterogeneous user needs.
 
 
-<!--Specifically, I examine how emerging computing technologies impact people's personal information (e.g., the Internet of Things, wearable health trackers), from which I identify underlying socio-technical challenges related to people’s personal information (e.g., data privacy transparency, personal privacy management, ethics around ML/AI-enabled systems). Built on my research findings, I also design and develop proof-of-concept systems to address these challenges (e.g., [IoTA Assistant app](https://www.iotprivacy.io/discovering-iot), [IoT Portal](https://www.iotprivacy.io), [Opt-Out Easy](https://optouteasy.isr.cmu.edu)).-->
+<!--Specifically, I examine how emerging computing technologies impact people's personal information (e.g., the Internet of Things, wearables, AI systems), from which I identify underlying socio-technical challenges related to people’s personal information (e.g., data privacy transparency, personal privacy management). Built on my research findings, I also design and develop proof-of-concept systems to address these challenges (e.g., [IoTA Assistant app](https://www.iotprivacy.io/discovering-iot), [IoT Portal](https://www.iotprivacy.io), [Opt-Out Easy](https://optouteasy.isr.cmu.edu)).-->
 
 ## Publications
 
